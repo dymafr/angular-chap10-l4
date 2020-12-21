@@ -157,3 +157,10 @@ body {
 .d2 {
   border: 1px solid green;
 }
+
+.active {
+  background: var(--primary);
+  border-radius: 3px;
+  color: white;
+  font-weight: 500;
+}
